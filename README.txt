@@ -1,1 +1,1 @@
-My persinal website, punjanis.com, created with the help of HTML5Up, and tweaked to my liking by me :)
+My personal website, punjanis.com, created with the help of HTML5Up, and tweaked to my liking by me :)
