@@ -1214,7 +1214,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			#wrapper {
-				padding: 3rem 2rem;
+				padding: rem 2rem;
 			}
 
 		}
@@ -1638,9 +1638,16 @@ input, select, textarea {
 
 		#footer .copyright {
 			letter-spacing: 0.2rem;
-			font-size: 0.7rem;
-			opacity: 0.75;
+			font-size: 0.8rem;
+			opacity: 1;
 			margin-bottom: 0;
+			text-transform: uppercase;
+		}
+		#footer .license {
+			letter-spacing: 0.2rem;
+			font-size: 0.5rem;
+			opacity: 0.66;
+			margin-bottom: 0rem;
 			text-transform: uppercase;
 		}
 
