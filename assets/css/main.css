@@ -7,13 +7,13 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-  canvas {
+canvas {
 	display: block;
-  }
+}
   
   /* ---- particles.js container ---- */
   
-  #particles-js {
+#particles-js {
 	position: absolute;
 	width: 100vw;
 	height: 100vh;
@@ -22,7 +22,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 50% 50%;
-  }
+}
 
 /* Hide Visible Scrollbar */
 ::-webkit-scrollbar {
