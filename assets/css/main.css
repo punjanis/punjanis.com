@@ -111,6 +111,18 @@ input, select, textarea {
 
 	}
 
+	@media screen and (max-height: 667px)	{
+		#particles-js {
+			height: 108vh;
+		}
+	}
+
+	@media screen and (max-height: 568px)	{
+		#particles-js {
+			height: 116vh;
+		}
+	}
+
 	html {
 		box-sizing: border-box;
 	}
